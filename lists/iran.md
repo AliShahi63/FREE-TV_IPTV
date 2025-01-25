@@ -1,7 +1,5 @@
-<h1>Iran</h1>
-
-https://en.wikipedia.org/wiki/List_of_IRIB_television_channels
-
+<h1>Iran</h1
+https://sepehrtv.ir/live
 <h2>Domestic channels</h2>
 
 | #    | Channel        | Link  | Logo | EPG id |
