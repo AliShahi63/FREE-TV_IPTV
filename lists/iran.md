@@ -7,6 +7,8 @@ https://sepehrtv.ir/live
 | 1    | IRIB TV1       | [x](https://s1-cloud.irib.ir/securelive3/tv1hd/tv1hd.m3u8) | <img height="20" src="https://i.imgur.com/rad9Guw.png"/> | IRIB1.ir |
 | 2    | IRIB TV2       | [x](https://s1-cloud.irib.ir/securelive3/tv2hd/tv2hd.m3u8) | <img height="20" src="https://i.imgur.com/FKiTd3O.png"/> | IRIB2.ir |
 | 3    | IRIB TV3       | [x](https://s1-cloud.irib.ir/securelive3.net/live/tv3hd/tv3hd.m3u8) | <img height="20" src="https://i.imgur.com/6cIaH0c.png"/> | IRIB3.ir |
+|3HD   |IRiB  TV3 HD
+https://sepehrtv.ir/live/tv3
 | 4    | IRIB TV4 Ⓢ     | [x](https://s1-cloud.irib.ir/securelive3/tv4sd/tv4sd.m3u8) | <img height="20" src="https://i.imgur.com/fsdz81l.png"/> | IRIB4.ir |
 | 5    | IRIB TV5/Tehran TV Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/tv5sd/tv5sd.m3u8) | <img height="20" src="https://i.imgur.com/VdOFcN4.png"/> | IRIB5.ir |
 | 6    | IRINN          | [x](https://s1-cloud.irib.ir/securelive3/irinnhd/irinnhd.m3u8) | <img height="20" src="https://i.imgur.com/7HL4joq.png"/> | IRINN.ir |
